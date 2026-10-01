@@ -1,4 +1,4 @@
-# [Sistema de Agenda e Encomendas]
+# Sistema de Agenda e Encomendas
 > Desenvolvi um simples protótipo de um futuro sistema de agendamento e encomandas online com integração via WhatsApp, Voltado para micro e pequenos negócios.
 
 ---
@@ -20,11 +20,11 @@ O protótipo foi construido utilizando as seguintes ferramentas:
 
 ## 📂 Como Rodar o Projeto
 Caso tenha interesse em testar o protótipo localmente, Realize este passo a passo:
-1.Faça o clone do repositorio.
-2.Crie as tabelas necessárias no seu banco de dados (Supabase).
-3.Adicione alguns dados de teste nas tabelas.
-4.Copie as credencias do banco (URL e API Key) e cole-as nas **linhas 8 e 9** do arquivo `BackendSQL_AgendaOnline.py.
-5.Execute o arquivo principaldo projeto e faça o seu Cadastro/Login.
+* **1.Faça o clone do repositorio.**
+* **2.Crie as tabelas necessárias no seu banco de dados (Supabase).**
+* **3.Adicione alguns dados de teste nas tabelas.**
+* **4.Copie as credencias do banco (URL e API Key) e cole-as nas **linhas 8 e 9** do arquivo `BackendSQL_AgendaOnline.py.**
+* **5.Execute o arquivo principaldo projeto e faça o seu Cadastro/Login.**
 
 ## 👤 Autor
 * **Gabriel R. da Silva** - https://www.linkedin.com/in/gabriel-rodrigues-1055b731a/
